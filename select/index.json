@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Aerials",
+  "base_artist": "System Of A Down",
+  "createdAt": "2026-02-17T13:09:02.075753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aerials",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/01_Aerials_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aerials / Arto",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/02_Aerials___Arto_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aerials \u0000 Arto",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/03_Aerials_\u0000_Arto_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aerials / Arto",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/04_Aerials___Arto_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aerials",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/05_Aerials_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aerials [System Of A Down Cover] [Bonus Track]",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/06_Aerials_[System_Of_A_Down_Cover]_[Bonus_Track]_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aerials",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/07_Aerials_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aerials (Album Version)",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/08_Aerials_(Album_Version)_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aerials",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/09_Aerials_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aerials",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/10_Aerials_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aerials (Bonus Track)",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/11_Aerials_(Bonus_Track)_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aerials (System Of A Down Cover)",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/12_Aerials_(System_Of_A_Down_Cover)_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "09 - Aerials",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/13_09_-_Aerials_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aerials",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/14_Aerials_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Aerials",
+      "artist": "System Of A Down",
+      "has_synced": true,
+      "path": "select/15_Aerials_System_Of_A_Down.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aerials/Arto",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/16_Aerials_Arto_System_of_a_Down.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Aerials",
+      "artist": "System of a Down",
+      "has_synced": true,
+      "path": "select/17_Aerials_System_of_a_Down.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aerials",
+      "artist": "System Of A Down",
+      "has_synced": false,
+      "path": "select/pl_01_Aerials_System_Of_A_Down.txt"
+    }
+  ]
+}
